@@ -83,7 +83,7 @@ masyarakat; (4) bersifat ideologi; (5) bersifat historis; (6)
 mengemukakan hubungan antara teks dan masyarakat; dan (7) bersifat
 interpretatif dan eksplanatori.
 
-**Analisis Wacana Kritis Dalam Karya Sastra (Praktik Ideologi)**
+Analisis Wacana Kritis Dalam Karya Sastra (Praktik Ideologi)
 ------
 
 Dalam karya sastra ditemukan ungkapan citra masyarakat dan zaman yang
@@ -205,10 +205,10 @@ itu ditemukan oleh struktur sosial dan reproduksi apa saja yang
 mempengaruhi wacana secara kumulatif memakai, menopang, atau mengubah
 struktur-struktur itu.
 
-**Pembahasan**
+Pembahasan
 ------
 
-**Dimensi Sosial dalam Novel Negeri Para Bedebah**
+Dimensi Sosial dalam Novel Negeri Para Bedebah
 ~~~~~~
 
 Dalam tulisan ini disajikan analisis wacana kritis terhadap Karya
@@ -277,7 +277,7 @@ Gambaran kisah Novel Negeri Para Bedebah karya Tere Liye di atas syarat
 dengan dimensi sosial, yakni *pertama* dimensi teks, *kedua* dimensi
 praksis kewacanaan, *ketiga* dimensi praksis sosiokuktural.
 
-**Dimensi Teks**
+Dimensi Teks
 ~~~~~~
 
 Dalam novel Negeri Para Bedebah Karya Tere Liye terdapat kata-kata
@@ -354,7 +354,7 @@ Pengarang dominan dalam menentukan interaksional. Apabila Novel Negeri
 Para Bedebah ini dibacakan, tampak identitas Pengarang dalam
 mengkonstruksi Pembaca melalui bahasa yang digunakan.
 
-**Dimensi Praksis Kewacanaan**
+Dimensi Praksis Kewacanaan
 ~~~~~~
 
 Melalui *genre* Novel ini Pengarang dapat mengembangkan wacana kritis
@@ -402,7 +402,7 @@ notabene sebagai calon *Orang-orang penting* di negeri ini. Dikotomi
 pembaca sebagai representasi sosial rakyat kolektif yang hidup menderita
 terhadap pengurus orpol yang hidup dalam kesewenang-wenangan.
 
-**Dimensi Praksis Sosikultural**
+Dimensi Praksis Sosikultural
 ~~~~~~
 
 Dimensi ini memfokuskan pertarungan sosial yang terjadi dan ikut
@@ -463,7 +463,7 @@ kemarahan pengarang dalam pemroduksian novel ini karena ketimpangan
 sosial dan ketidaktegasan pemimpin negeri ini. Pemimpin negeri ini tidak
 sejalan dengan sikap dan tindakannya.
 
-**SIMPULAN**
+Simpulan
 ------
 
 Berdasarkan analisis teks sastra terhadap Novel Negeri Para Bedebah
@@ -484,7 +484,7 @@ komunikasinya adalah sesuatu yang kosong. Hanya situasi yang
 memungkinkan terbentuknya kondisi suatu teks dan dapat memberi makna
 pada teks itu.
 
-**Daftar Rujukan:**
+Daftar Rujukan
 ------
 
 Darma, Yoce Aliah. (2013). *Analisis Wacana Kritis.* Bandung: Yrama
