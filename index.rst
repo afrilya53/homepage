@@ -11,5 +11,5 @@ Mochammad Bayu Firmansyah, `Analisis Wacana Kritis - Dimensi Sosial dalam Novel 
 .. toctree::
    :maxdepth: 2
 
-   beranda
    firmansyah
+   daftar
