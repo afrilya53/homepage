@@ -1,6 +1,6 @@
 **Analisis Wacana Kritis: Dimensi Sosial dalam Novel Negeri Para Bedebah
 Karya Tere Liye**
-=======
+=================
 
 **Mochammad Bayu Firmansyah**
 
