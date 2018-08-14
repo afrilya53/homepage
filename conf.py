@@ -100,6 +100,11 @@ pygments_style = 'sphinx'
 # A list of ignored prefixes for module index sorting.
 #modindex_common_prefix = []
 
+# Hypothes.is customizations using extension API
+# see http://sphinx-doc.org/latest/extdev/index.html
+def setup(app):
+    # Add annotation to docs pages
+    app.add_javascript('https://hypothes.is/embed.js')
 
 # -- Options for HTML output ---------------------------------------------------
 
@@ -254,6 +259,3 @@ latex_documents = [
 
 # How to display URL addresses: 'footnote', 'no', or 'inline'.
 #texinfo_show_urls = 'footnote'
-
-def setup(app):
-    app.add_javascript("https://hypothes.is/embed.js"
