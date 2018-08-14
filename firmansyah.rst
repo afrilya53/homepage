@@ -24,7 +24,7 @@ oleh proses sosial dan praksis sosial.
 
 Kata Kunci: analisis wacana kritis, dimesi sosial, novel
 
-**Pendahuluan**
+Pendahuluan
 ------
 
 Analisis wacana kritis merupakan proses penguraian atau suatu upaya
