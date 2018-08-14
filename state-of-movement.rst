@@ -116,3 +116,4 @@ However, some aspects are clear, which can be generally agreed upon by all stake
 * Measurably increasing quality of research and achievement that leads to greater career prospects.
 
 * Adoption of open access by funding agencies; policies that explicitly allow use of preprints and other pre-publications in funding applications.
+
