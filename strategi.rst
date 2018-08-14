@@ -1,347 +1,557 @@
-2. Strategi
-=========
-
-"*Strategy generally involves setting goals, determining actions to achieve the **goals**, and mobilizing resources to execute the actions. A strategy describes how the ends (goals) will be achieved by the means (resources).*" (NOTE:  https://en.wikipedia.org/wiki/Strategy)
-
-Untuk menghadapi berbagai tantangan dan melaksanakan apa yang diprioritaskan, perlu dibentuk sebuah kekuatan. Dalam hal ini, kami telah menyusun perencanaan pelaksanaan strategi yakni jangka pendek, menengah dan panjang,  yang dapat diterapkan oleh individu, kelompok, lembaga di tingkat nasional (atau lebih tinggi). 
-
-Kami menyadari, dikarenakan adanya perbedaan pemain, pemegang kekuasaan dan cara pandang serta praktik mereka, maka strategi ini bukanlah sebuah dokumen konsensus. Berbagai perbedaan perspektif masih menjadi perdebatan. Pada akhirnya, keberhasilan strategi ini dapat terwujud jika setiap individu dan kelompok dapat melaksanakan tiap-tiap bagian strategi hingga kemudian menjadi budaya dan selanjutnya pelan-pelan berubah menuju 'negara terbuka'. Faktanya, perkembangan pengetahuan terbuka benar-benar menurun dalam 2-3 dekade terakhir, di mana salah satu faktornya adalah kurangnya pemikiran strategis dan juga penerapannya.
-
-We also note that this strategy can only be based on information which we as a collective have, and it remains highly likely that there are many initiatives, policies and programs that we have inadvertently missed. As such, it is probable that there are strategies that we have missed or not even considered. Nonetheless, we have attempted to justify our strategy where possible using evidence and reasoning, the discussion of which can be found below the strategy in [Section 5](#heading=h.uebc1dr881dp).
-
-2.1 Strategi Jangka Pendek (>2 tahun)
------
-
-**Tingkat Individu**
-
-* Miliki pola pikir tumbuh serta sadari dan libatkan diri secara aktif dalam ilmu pengetahuan. Dengan pola pikir ini, ilmu pengetahuan tidak diandaikan sebagai barang jadi (being) dan untuk dipamerkan (karena kebenarannya selalu tentatif), melainkan hal yang terus "menjadi" (becoming) dan meminta partisipasi aktif siapapun untuk mengasahnya. 
-
-* Menyarankan lembaga pendanaan, pemerintah dan lembaga penelitian untuk menyetujui kebijakan praktik pengetahuan terbuka selain akses terbuka (Open Access) dan berbagi data (data sharing); contohnya, penelaahan terbuka (open peer review), penggunaan identitas tetap, evaluasi terbuka, dan pra cetak.
-
-* Buat kontribusi yang terbuka untuk publik (contoh, CV, platform terbuka, atau situs pribadi).
-
-	* Buat ini dalam mengembangkan cerita praktik terbaik Pengetahuan Terbuka.
-
-* Menggunakan berbagai pendekatan penelitian ilmiah terbuka dan praktik pendidikan terbuka dengan skala yang lebih luas. Lihat [FOSTER Open Science taxonomy](https://www.fosteropenscience.eu/resources) sebagai pedoman.
-
-	* Lebih penting lagi, mulailah dengan [making your own work available open access](https://cyber.harvard.edu/hoap/How_to_make_your_own_work_open_access).
-
-* Menggunakan sumber terbuka dan perangkat lunak gratis untuk melaksanakan penelitian dan analisa sehingga proses komputerisasi dapat diperiksa oleh masyarakat dan juga agar sarana yang digunakan tersedia untuk semua orang sehingga mampu meningkatkan produktivitas. Perbedaan antara terbuka dan gratis, dapat melihat [OpenSource.com](https://opensource.com/article/17/11/open-source-or-free-software).
-
-* Berkomitmen terhadap berbagai praktik pengetahuan terbuka, seperti membagikan data dan materi penelitian tanpa biaya, format berlisensi terbuka sehingga metode dan hasil penelitian dapat diuji dan dikembangkan oleh siapapun.
-
-* Berkomitmen dalam berbagi pracetak dalam menyebarkan karya secara terbuka dan cepat.
-
-* Menyusun dan mengembangkan praktik penggunaan ulang dalam membantu menciptakan budaya pengetahuan terbuka, dengan, antara lain:
-
-	* Mencari data yang ada sehingga kamu dapat menngunakan ulang selain menciptakan data kamu sendiri;
-	* Meninggalkan ** komentar / anotasi konstruktif ** pada pracetak / kode dll. Dengan alat terbuka seperti [hypothes.is] (https://web.hypothes.is/);
-	 * Membantu menjawab pertanyaan pada [Ask Open Science](https://ask-open-science.org/), [Stack Overflow](https://stackoverflow.com/) dan di Twitter; dan
-	 *  Merespon secara positif terhadap permintaan untuk peninjauan sejawat terbuka.
-	 
-* Membentuk struktur pendukung (seperti, openLab, walk-in labs) yang membimbing tentang pengetahuan terbuka, misalnya cara publikasi, belajar dan meneliti secara terbuka dan sarana/alat apa yang tersedia.
-
-![image alt text](image_0.png)
-
-Kramer, Bianca, & Bosman, Jeroen. (2018, January). Rainbow of open science practices. Zenodo. [http://doi.org/10.5281/zenodo.1147025](http://doi.org/10.5281/zenodo.1147025)
-
-![image alt text](image_1.png)
-
-Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018, February). Zenodo. [https://zenodo.org/record/1183806](https://zenodo.org/record/1183806)
-
- 
-* Membina hubungan baik dengan para pemangku kepentingan (e.g., openLabs, walk-in labs and support structures, makerspaces in the wider sense) yang dapat membantu membimbing tentang Pengetahuan Terbuka. Hal ini mencakup pertanyaan tentang bagaimana menerbitkan, mengajar, dan meneliti secara terbuka, dan alat apa yang dapat digunakan untuk ini (lihat gambar 1 dan 2, dan bagian *Tingkat Kelompok*).
-
-![Figure_1: Rainbow of open science practices](images/image_0.png)\
-
-[Kramer, Bianca, & Bosman, Jeroen (2018, January). Rainbow of open science practices. Zenodo](https://doi.org/10.5281/zenodo.1147024). (CCBY)
-
-![Figure_2: Open Educational Practice (OEP): collection of scenarios](images/image_1.png)\
-
-[Steiner, Tobias (2018, February). Open Educational Practice (OEP): collection of scenarios. Zenodo](https://zenodo.org/record/1183805). (CC0)
-
-* Membina hubungan yang lebih baik dengan pemangku kepentingan lain yang terlibat dalam pengembangan Pengetahuan Terbuka (misalnya, pustakawan, pembuat kebijakan, penerbit, dan penyedia layanan lainnya, pendukung Akses Terbuka, dan mereka yang aktif mengajar, ditambah TIK dan posisi dukungan lainnya untuk ilmu pengetahuan & pendidikan).
-
-* Berkolaborasi dengan peneliti yang mempraktikkan pengetahuan terbuka, mulai dari pengembangan perangkat lunak sumber terbuka dan alat untuk menerbitkan penelitian pra cetak dan berbagi pengalaman tentang pendidikan terbuka.
-
-* Mendorong penerapan 'pola pikir terbuka' yang menekankan pentingnya proses penelitian terhadap hasilnya. 
-
-* Tanda tangani Deklarasi San Francisco Declaration on Research Assessment (DORA) (NOTE:  DORA.) sebagai bentuk komitmen dalam meningkatkan penilaian penelitian.
-
-	* Sebagai alternatif, gunakan [Leiden Manifesto](http://www.leidenmanifesto.org/).
-
-* Untuk pendidikan, tandatangani [Cape Town Open Education Declaration](http://www.capetowndeclaration.org/sign-the-declaration) dalam menunjukkan komitmen terhadap tiga strategi deklarasi sebagai bagian dari pengajaran, pembelajaran dan/atau kehidupan kerja.
-	 * Untuk yang tertarik lebih, perhatikan [Ten Directions to Move Open Education Forward](http://www.capetowndeclaration.org/cpt10/).
-
-* Menolak menandatangani perjanjian penyerahan hak cipta, kecuali jika kamu diizinkan menyimpan hak cipta karya kamu di bawah [Creative Commons](https://creativecommons.org/licenses).
-
-**Tingkat Kelompok (laboratorium, departemen)**
-
-* Mendirikan pusat-pusat pengetahuan terbuka (tempat atau kelompok untuk berdiskusi) dan menghubungkannya untuk pengembangan komunitas.
-
-  * Jika lokal belum ada, dirikan (contohnya, menggunakan platform [Meetup](https://www.meetup.com/)).
-  * Gunakan komunitas nasional/intersional ini untuk mendukung pembelajaran tingkat bawah dan berbagi pilmu pengetahuan tentang praktik Pengetahuan Terbuka, khususnya pada budaya yang beragam. 
-  * Mulailah diskusi tentang perjanjian ilmu terbuka secara implisit atau eksplisit atau kode dalam membimbing departemen, laboratorium atau kelompok penelitian. Hal ini dapat dilandaskan pada yang sudah ada, seperti [Contributor Covenant](https://www.contributor-covenant.org/).
-  
-* Menetapkan pakar hak cipta yang dapat membantu terkait hal-hal hak cipta dan penggunaan lisensi Creative Commons.
-
-* Mengamati praktik terbaik untuk mengetahui apa sebenarnya pengetahuan terbuka dan bagaimana dampak postifnya.
-
-* Melibatkan departemen komunikasi dan pejabat penilai penelitian. Aturlah diskusi untuk memberi tahu mereka tentang sains dan pengetahuan terbuka, dan peka terhadap fakta bahwa itu mungkin menyiratkan bahwa mereka mengubah seluruh pandangan mereka tentang apa yang penting dalam ilmu pengetahuan dan apa peran mereka terhadapnya.
-
-* Mengadopsi praktik terbaik pengetahuan terbuka, termasuk data bersama sebagai hasil penelitian dan mengatasi bias publikasi dan "praktik penelitian yang diragukan" dengan alur kerja yang mengurangi hal tersebut.
-
-* Mendorong pembuat keputusan pada jurnal ilmiah, penerbit, pendana, dan pendidikan tinggi serta lembaga penelitian untuk mengakui dan menghargai pengetahuan terbuka, khususnya yang menyangkut kebijakan evaluasi penelitian.
-
-* Mempengaruhi penyedia layanan peringkat universitas (Times Higher Education) agar memasukkan unsur-unsur keterbukaan dalam indikator mereka.
-
-* Memprakarsai diskusi tentang standar dan praktik terbaik tentang prinsip-prinsip publikasi data (contohnya [FAIR principles](https://www.go-fair.org/fair-principles/)).
-
-* Meningkatkan keterlibatan badan penasehat fakultas, peneliti, mahasiswa, dan pustakawan mengenai praktik dan prinsip Pengetahuan Terbuka (lihat gambar. 1 dan 2).
-
-**Tingkat Kelembagaan (termasuk badan penelitian dan pendanaan)**
-
-* Perpustakaan penelitian sebaiknya mengumpulkan informasi secara meneyeluruh tentang literatur penelitian. Informasi itu dapat digunakan untuk membantu negosiasi, memutuskan hubungan dengan penerbit mahal, dan membatalkan berlangganan dengan memberikan bukti ke dalam layanan lintas sektoral, yang berisi:
-
-    * Di mana peneliti dapat menerbitkan;
-
-    * Siapa dewan editor dan penelaah sejawat;
-
-    * Berapa biaya untuk berlangganan penerbitan;
-
-    * Berapa biaya pemrosesan artikel untuk akses terbuka; dan
-
-    * Artikel mana yang sedang diunduh dan dikutip. 
-
-* Petakan dan koordinasikan jika berlangganan yang masih ada dan perizinan ‘besar’ akan mengakhirinya terhadap lembaga, dan biarkan itu terjadi. Where cancellations or terminations occur, ensure that there is adequate post-subscription access using existing legal mechanisms (e.g., Inter-Library Loan). Explore routes for reinvesting money saved for library budgets.
-
-* Membeli kembali dokumen-dokumen penting dan masukkan ke dalam badan karya ilmiah serta tingkatkan juga pengarsipan dokumen-dokumen penting tersebut.
-
-* Membantu memberitahu lebih kepada peneliti tentang Help alat [Author Alliance termination of transfer](https://www.authorsalliance.org/resources/termination-of-transfer/) yang dapat membantu mereka terkait hak cipta sebagai penulis.
-
-* Pendana penelitian dapat menentukan apa-apa saja yang menjadi standar publikasi yang dapat diterima. Sehingga nantinya, mereka memiliki andil kekuatan untuk menentukan penerbitan apakah di jurnal berbayar atau di jurnal dengan akses terbuka, atau pada melarang bergabung dengan jurnal seperti Emerald, The Royal Society.
-
-* Menolak terlibat dengan penerbit mahal [double dip](http://www.rluk.ac.uk/about-us/blog/the-costs-of-double-dipping/), dan meminta transfaransi data di mana hal-hal seperti ini mungkin terjadi (sebagai contoh lihat [Buranyi, 2017](https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science)).
-
-* Menolak terlibat dengan penerbit yang tidak transparan tentang harga baik itu berlangganan atau Akses terbuka. Termasuk juga  penerbit yang bersikeras menggunakan perjanjian rahasia sebagai bagian dari persyaratan kontrak lisensi.
-
-* Melibatkan penerbit yang lebih transparan soal aspek keuangan penerbitan mereka, sama seperti [Ubiquity Press](https://www.ubiquitypress.com/site/publish/).
-
-* Mendesak penerbit membuat semua catatan bibliografi, metrik penggunaan, dan data kutipan tersedia secara gratis dan dapat diakses baik dalam format yang dapat dibaca manusia dan mesin.
-
-* Mengembangkan kebijakan penyimpanan hak cipta penelitian ilmiah di lembaga penelitian yang merupakan  kekurangan mereka saat ini.
-
-* Mengadopsi pedoman aturan kontributor (CRediT - Contributor Rules Taxonomy)  (catatan:  CASRAI CRediT scheme.) untuk membantu mengidentifikasi kontribusi penulis lebih jelas.
-
-* Menolak terlibat dengan penertbit yang membatasi pracetak, Akses Terbuka dan kebijakan hak cipta.
-
-* Mendorong penginisiasian penerbit terhadap kutipan terbuka (NOTE:  Initiative for Open Citations.) (I4OC) dalam hubungannya dengan standar keterbukaan yang lebih luas.
-
-* Bagi lembaga penelitian yang saat ini kesulitan, baik mengadakan dan memelihara tempat penyimpanan akses terbuka atau mengetahui sumber yang sudah ada untuk digunakan dan mengadopsi kebijakan akses terbuka [Open Access policy](https://cyber.harvard.edu/hoap/Good_practices_for_university_open-access_policies). Buatlah agar mudah ditemukan dan dapat diakses di situs web lembaga dan pengindeks yang relevan.
-
-   * Contoh kebijakan Akses Terbuka, [ROARMAP](https://roarmap.eprints.org/cgi/search/advanced)
-   * Contoh Pendidikan Terbuka/ kebijakan OER, [Creative Commons OER policy registry](https://wiki.creativecommons.org/wiki/OER_Policy_Registry), atau kebijakan Uni Eropa, [Policy approaches to Open Education, 2017](https://doi.org/10.2760/283135
-
-* Mempromosikan dan mengkompensasi waktu dan usaha untuk pelatihan pengetahuan terbuka, termasuk sumber terbuka, akses terbuka, dan pendidikan terbuka.
-
-* Mengaktifkan struktur dukungan lokal seperti openlabs dan publikasi terbuka serta pembelajaran penelitian, bimbingan dan saran.
-
-* Melibatkan kelompok penelitian untuk mengembangkan dan mengiklankan insentif untuk yang membagikan pracetak, data terbuka, analisis penggandaan dan perekrutan akses terbuka, promosi dan jabatan. Tetapkan cara baru untuk menggambarkan kontribusi penelitian.
-
-* Mendorong dan mengadopsi prinsip-prinsip penilaian penelitian yang lebih adil seperti yang diuraikan dalam DORA. Pastikan bahwa mereka yang bertanggung jawab atas penilaian penelitian, termasuk pengangkatan, penguasaan, dan komisi pemberian hibah mematuhi ini.
-
-* Mencari pengganti perangkat lunak berpemilik dengan alternatif sumber terbuka.
-
-* Mewajibkan peneliti untuk bekerja dengan standar terbuka dan format file (baik secara eksklusif atau di samping standar dan format file eksklusif).
-
-**Tingkat Nasional (atau lebih tinggi)**
-
-* Menciptakan kolaborasi perpustakaan baru atau mendukung/bergabung dengan yang sudah ada (contohnya, [International Coalition of Library Consortia](http://icolc.net/)) untuk bekerja sama dalam pengembangan infrastruktur (contohnya, [LIBER](http://libereurope.eu/), [EIFL](http://www.eifl.net/), [ARL](http://www.arl.org/), [SPARC](https://sparcopen.org/)).
-
-* Bergabung dengan  Koalisi Keberlanjutan Global untuk Layanan Ilmu Pengetahuan Terbuka [(SCOSS)](http://scoss.org/), dan periksa koalisi tersebut dengan [Open Research Funders Group](http://www.orfg.org).
-
-     * Konsorsium seperti yang ada di Jerman [Projekt DEAL](https://www.projekt-deal.de/) dapat dijadikan sebagai contoh terhadap langkah-langkah awal pada tingkat nasional. Mendapat dukungan dari SPARC untuk berbagai perkembangan juga sangat berguna.
-     
-* Membina dukungan fakultas dan pendana untuk Akses Terbuka dan inisiatif lainnya (contohnya, peninjauan sejawat (peer review)) yang dipisahkan dari jurnal. Menyetujui struktur kepemimpinan untuk infrastruktur ilmiah dunia (contohnya, [W3C](https://www.w3.org/)).
-
-* Menciptakan standar akademis dalam menerapkan platform alternatif penerbitan ilmiah (berlangganan tanta biaya, mengembangkan penyimpanan yang sudah ada). 
-
-* Mendukung kolaborasi seperti [Metadata 2020] (http://www.metadata2020.org/), [NISO](http://www.niso.org/)/[NIST](https://www.nist.gov/), dan [eLife](https://elifesciences.org/), untuk membantu menghubungkan antara sistem dan kelompok.
-
-* Mengambil tindakan dalam melawan privatisasi karya ilmiah dan prosesnya guna untuk mengubah industri penerbitan agar adil dalam hal hak cipta, persaingan pasar dan  dimiliki oleh komunitas ilmiah.
-
-* Menciptakan analisis kebijakan biaya untuk pengetahuan terbuka (contohnya, harga yang pantas dalam menerbitkan makalah) yang digunakan sebagai dasar untuk alasan biaya pajak tiap tahun.
-
-* Menerapkan teknologi penyortiran, penyaringan dan pencarian yang tersedia untuk hasil-hasil penelitian.
-
-* Mengizinkan akses terhadap naskah dan data.
-
-* Pendana penelitian dan perpustakaan sangat berperan penting, terutama dalam hal pengembangan atau pendanaan infrastruktur ilmiah. Sederhananya, menyalurkan dana lebih untuk sistem yang sudah ada, dengan Simply channeling more money into the existing system, dinamika insentif dan kekuasaan yang buruk jelas tidak lagi bagus untuk penelitian.
-
-* Mengembangkan peta nasional dan regional yang berkelanjutan untuk Pengetahuan Terbuka.
-
-* Mendorong pemberi dana penelitian untuk memvariasikan portofolio hasil penelitian.
-
-    * Pengadopsian pracetak dan kebijakan akses terbuka yang lebih luas sama seperti NIH dan Wellcome Trust.
-  
-* Mendorong pemberi dana penelitian untuk mempromosikan Pengetahuan Terbuka.
-
-   * Studi penentu dana yang menggunakan teori perubahan perilaku dalam memetakan faktor penentu dalam praktik Pengetahuan Terbuka 	yang berbeda (misalnya, mengapa beberapa peneliti secara rutin mempublikasikan pracetak sementara yang lain tidak? Apakah 	     argumen para peneliti yang menentang pembagian data menjadi alasan mengapa yang lain yang tidak membagikan data, bukan?).
-   * Studi pendanaan menggunakan teori pemangku kepentingan untuk mengeksplorasi cara-cara dalam mencapai kebijakan Pengetahuan Terbuka yang lebih baik pada lembaga penelitian dan pendidikan.
-
-* Mengurangi biaya pemrosesan artikel (article-processing charges - APCs) untuk akses terbuka.
-
-* Mengurangi biaya pemrosesan artikel (APCs) dan buku (BPCs) untuk mencocokkan pasaran rata-rata jurnal Akses Terbuka. 
-	* Pasar penerbitan ilmiah mungkin memerlukan penyelidikan tingkat pemerintah secara rinci untuk menstabilkan ini.
-
-* Menggunakan [ORCID](https://orcid.org/) untuk mengidentifikasi seluruh peneliti.
-
-* Jika berlangganan belum berakhir, buat perjanjian ganti rugi untuk mengurangi double-dipping. 
-
-* Where offsetting deals are in place, these can be streamlined and standardised across sectors to reduce administrative burden.
-
-* Untuk penerbit akademis bisa terlibat dengan [UK Scholarly Communications License](http://ukscl.ac.uk/)) yang dapat mengetahui lebih tentang hak cipta penulis. Hal ini mampu mengurangi waktu yang dihabiskan untuk pemrosesan, biaya yang dikeluarkan untuk pemrosesan artikel, dan untuk peneliti di Inggris, bantu mereka untuk mematuhi kebijakan akses terbuka [UKRI Open Access policy](https://www.ukri.org/funding/information-for-award-holders/open-access/open-access-policy/). 
-
-    * untuk yang di luar Inggris untuk mempertimbangkan UK SCL (atau yang lain) selain strategi pendanaan regional lain.
-
-* Pengadopsian kebijakan bebas biaya untuk para peneliti dari negara-negara berpenghasilan rendah hingga menengah.
-
-* Untuk mengubah sebagian besar jurnal ilmiah (https://nrs.harvard.edu/urn-3:HUL.InstRepos:27803834) dari berlangganan ke penerbitan akses terbuka (OA) sesuai dengan preferensi publikasi khusus komunitas.
-
-* Untuk mengundang semua pihak yang berkepentingan (https://doi.org/10.3233/ISU-170839) termasuk universitas, lembaga penelitian, pendana. perpustakaan dan penerbit dalam berkolaborasi terhadap transisi praktik terbuka untuk kepentingan pengetahuan dan msyarakat luas. 
-
-* Menciptakan praktik terbuka yang bagus tentang pengetahuan terbuka nasional/ situs ilmu terbuka bersamaan dengan informasi dan sumber.
-
-* Mendorong formalisasi Kursus Pelatihan Ilmu Pengetahuan Terbuka, seperti yang ditawarkan oleh [FOSTER](https://www.fosteropenscience.eu/toolkit), program pelatihan kampus (dan yang lebih tinggi).
-
-* Mengadopsi prinsip penilaian penelitian yang lebih adil seperti yang diuraikan di DORA. Pastikan bahwa mereka yang bertanggung jawab atas penilaian penelitian, termasuk pengangkatan, penguasaan, dan komisi pemberian hibah mematuhi ini.
-
-2.2 Strategi Jangka Menengah (2 - 5 tahun) 
------
-
-Harapan pada poin ini adalah bagian-bagian khusus pada strategi jangka menengah ini akan diinisiasi, berdasarkan kebutuhan kelompok baik yang ada sekarang atau yang masih dalam perkembangan. Ini adalah proses yang sedang berlangsung, dan mungkin akan tumpang tindih di sini. Namun, Semua bagian yang ada di strategi jangka pendek masih relevan pada bagian ini, tergantung pada langkah yang ditempuh.
-
-**Tingkat Individu**
-
-* Lanjutkan melatih para peneliti baru tentang praktik pengetahuan terbuka.
-
-	* Di daerah yang mungkin kurang, bangun strategi jaringan komunitas untuk meningkatkan usaha pengadvokasian. 
-	
-* Pastikan bahwa semua proses dan hasil penelitian Anda, termasuk yang lalu, secara terbuka berlisensi dan bisa digunakan ulang.
-
-* Mengembangkan alur kerja praktek-praktek pengetahuan terbuka untuk membuktikan keefektivannya dibandingkan yang sistem tradisional yang lebih tertutup.
-
-* Terus berinovasi pada proses penelitian baru dan alur kerja layanan, sarana dan teknologi tersedia.
-
-* Gunakan teknologi web semantik untuk menyebarkan hasil penelitian yang sudah ada dan yang akan datang; termasuk menandai (tagging) (lihat pendekatan seperti [OATP](https://tagteam.harvard.edu/hubs/oatp/items) dan artikel ilmiah *Openness and Education* [DeVries, Rolfe, Jordan and Weller, 2017](http://www.katyjordan.com/go_gn/network/)),atau anotasi.
-
-* Lanjutkan aspek-aspek yang ada di strategi jangka pendek.(Bagian 2.1).
-
-**Tingkat Kelompok**
-
-* Menciptakan mekanisme komprehensif yang membolehkan proses penelitian terbuka kepada publik (no more piggybacking, no more "human processing units", etc.).
-
-* Mengembangkan alur kerja Pengetahuan Terbuka untuk semua anggota kelompok dalam meningkatkan pengembangan infrastruktur dan alat yang lebih baik. 
-
-* Pastikan anggota kelompok dilatih keterampilan yang relevan, termasuk perjanjian publik, kebijakan pengembangan, analisis data, pengembangan web, citizen science dan komunikasi ilmiah. 
-
-* Menunjukkan perkembangan dan cerita sukses tentang praktik Pengetahuan terbuka.
-
-* Lanjutkan membangun dan memberdayakan komunitas Pengetahuan Terbuka lokal, termasuk peneliti baru dan mahasiswa.
-
-* Lanjutkan aspek-aspek yang ada di strategi jangka pendek.(Bagian 2.1)
-
-**Tingkat Lembaga**
-
-* Mengimplementasikan pengajuan naskah secara otomatis/dengan "sekali klik" (single click) untuk penyimpanan terbuka di bawah lisensi terbuka.  
-
-    * Implement opt-out automatization of data deposition under default open licenses.
-
-    * Implement opt-out automatization of code accessibility and version control under default open licenses.
-
-* Konversikan dana yang tersimpan saat ini untuk langganan jurnal tertutup menjadi dana yang mendukung model bisnis Akses Terbuka yang berkelanjutan, infrastruktur ilmiah, dan layanan dukungan terkait lainnya.
-
-* Mengembangkan dan mengajarkan berbagai praktik pengetahuan terbuka (contohnya, seminar/loka karya untuk mahasiswa).
-
-* Lanjutkan bekerja sama dengan lembaga penelitian untuk berbagi sumber, infrastruktur, dan layanan agar lebih berkelanjutan.
-
-* Mengajak pendana penelitian untuk memberikan amanat eksplisit dan memaksa terkait Pengetahuan Terbuka, pastikan tidak ada pelanggaran kebebasan akademik.
-
-* Lanjutkan bekerjasama dengan penerbit dan perusahaan lain yang terus membuka layanan, alat dan kebijakan. 
-
-* Berkomitmen berbagi data tingkat lembaga secara terbuka dan metrik aktivitas, catatan dan perilaku penelitian. 
-
-* Lanjutkan memastikan bahwa kebijakan penilaian penelitian berdasarkan informasi, ketat, dan ditaati di semua tingkatan.
-
-* Mengembangkan dan mengajarkan berbagai praktik pengetahuan terbuka (contohnya, seminar/loka karya untuk mahasiswa).
-
-**Nasional Tingkat**
-
-* Mulai menerapkan teknologi semantik di semua hasil penelitian, termasuk untuk tujuan naskah dan data yang terbuka.
-
-* Memformulasi rekomendasi karir metrik untuk mendukung penerbitan data terbuka, perangkat lunak sumber terbuka dan dukungan penelitian.
-
-* Memformulasikan rekomendasi karir metrik untuk menilai usaha kandidat terhadap pembelajaran dan pengajaran pendidikan terbuka.
-
-  * Pastikan kebijakan penilaian penelitian lebih adil, ketat, didukung, dan diawasi. 
-
-* For any remaining hybrid journals that attain a higher proportion of open access over subscription articles, encourage them to ‘flip’ them to pure open access with an APC that reflects the running costs of the journal.
-
-    * For remaining hybrid journals that have not attained this level, refuse to support publication of OA articles in those venues.
-
-* Tingkatkan dana untuk minoritas yang kurang terwakili
-
-* Mendanai penelitian yang relevan untuk terlibat dalam Pengetahuan Terbuka.
-
-* Mendanai intervensi dalam menargetkan individu dan institusi untuk mengadopsi praktek dan kebijakan Pengetahuan Terbuka.
-
-* Mengajak kerjasama antara konsorsium perpustakaan (contoh, LIBER, EIFL) dengan konsorsium nasional, dan persatuan pendidikan yang lebih tinggi untuk menguatkan koalisi peneliti. Tambahkan kolaborasi ilmiah ini (mis., ELife, NISO) untuk lebih mengembangkan hubungan dan kolaborasi di seluruh sektor komunikasi ilmiah.
-
-* Memulai penerapan infrastruktur ilmiah di tingkat nasional atau internasional, dengan para pemegang kepentingan menyetujui standar, peta, dan struktur kepemimpinan terbuka. Pastikan hal ini didukung dengan pendanaan berkelanjutan.
-
-* Menerbitkan hasil penelitian atau investigasi ke penerbitan ilmiah nasional.
-
-2.3 Strategi Jangka Panjang (5 -10 tahun) 
------
-
-The expectation at this point is that specific parts of the short- and mid-term strategies will have been initiated, based on the needs of respective groups, and are either in place or in development. Often, these are ongoing processes, and therefore might overlap with the long-term strategy, and are not worth repeating here. However, all of the items mentioned in the [short-term strategy](#Short) and [mid-term strategy](#Middle) are still relevant at this stage, depending on the pace of development.
-
-**Tingkat Individu**
-
-* Mendukung pelatihan peneliti muda dalam penggunaan sarana dan prasarana penelitian ilmiah yang baru.
-
-* Mengajarkan mahasiswa laboratorium terbuka, kontrol versi, analisis berkelanjutan, dan aspek lain dari proses pengetahuan Terbuka dalam mata kuliah pengantar penelitian.
-
-* Mengembangkan materi pelatihan untuk pengembangan pengetahuan terbuka lanjutan.
-
-* Lanjutkan berhubungan dengan komunitas Pengetahuan Terbuka untuk mendorong peningkatan keterlibatan dan kolaborasi lintas disiplin.
-
-* Melanjutkan aspek-aspek yang ada di strategi jangka menengah.
-
-**Tingkat Kelompok**
-
-* Melanjutkan pengembangan dan eksperimen  alur kerja Pengetahuan Terbuka yang muncul dan berkembang dan mengintegrasikannya dengan elemen-elemen infrastruktur ilmiah yang baru didirikan.
-
-* Menyampaikan keuntungan atau dampak alur kerja pengetahuan terbuka ke kelompok lain.
-
-* Melanjutkan aspek-aspek yang ada di strategi jangka menengah.
-
-**Tingkat Lembaga**
-
-* Membentuk pendanaan permanen yang digunakan untuk pengembangan perangkat lunak terbuka, biaya pemrosesan artikel, server pra cetak dan biaya lain terkait pengetahuan terbuka.
-
-* Memberikan insentif dan mandat agar seluruh hasil penelitian diterbitkan di platform atau jurnal akses terbuka.
-
-* Memberikan insentif kepada mahasiswa untuk mempraktikkan keterbukaan di penelitian mereka.
-
-* Lanjutkan mengembangkan aspek-aspek strategi di jangaka pendek dan menengah.
-
-**Tingkat Nasional (atau lebih tinggi)**
-
-* Mengembangkan solusi inovatif yang belum ada saat ini.
-
-* Mewajibkan penelitian yang didanai pemerintah  diterbitkan di platform atau jurnal akses terbuka  atau repositori terbuka lainnya. Terapkan konsekuensi bagi mereka yang tidak mematuhi mandat tersebut.
-
-* Menghilangkan tekanan publikasi dan fokus pada hasil dan proses penelitian yang lebih beragam untuk evaluasi dan kriteria penilaian.
-
-* Membantu peneliti mengontrol proses penelitian dan evaluasi berdasarkan apa yang percayai untuk kemajuan ilmiah.
+**Analisis Wacana Kritis: Dimensi Sosial dalam Novel Negeri Para Bedebah
+Karya Tere Liye**
+======
+
+**Mochammad Bayu Firmansyah**
+
+**STKIP PGRI PASURUAN**
+
+firmansyahbayu970@gmail.com
+
+Abstrak
+------
+
+Tulisan ini bertujuan untuk mendeskripsikan dimensi sosial *Fairclough*
+dengan menggunakan prosedur analisis wacana kritis yang digambarkan
+secara simultan. Berdasarkan tujuan tersebut mendorong penulis untuk
+mengkaji dalam sebuah studi pustaka berjudul "Analisis Wacana Kritis:
+Dimensi Sosial dalam Novel Negeri Para Bedebah karya Tere Liye. Metode
+tulisan ini adalah deskriptif kualitatif. Hasil tulisan menunjukkan
+bahwa terdapat tiga dimensi sosial: pertama, dimensi teks bahasa sebagai
+piranti linguistik yang di dalamnya tersembunyi ideologi dan kekuasaan.
+Kedua, dimensi praksis wacana sebagai interpretasi teks dan interpretasi
+konteks. Ketiga, dimensi praksis sosiokultural dimana wacana ditentukan
+oleh proses sosial dan praksis sosial.
+
+Kata Kunci: analisis wacana kritis, dimesi sosial, novel
+
+**Pendahuluan**
+------
+
+Analisis wacana kritis merupakan proses penguraian atau suatu upaya
+dalam mengeksplanasi teks (dimensi sosial) yang dikaji oleh seseorang
+atau kelompok dominan yang memiliki kecenderungan tujuan untuk
+memperoleh apa yang diinginkan, sehingga terdapat konteks yang harus
+disadari akan adanya kepentingan. Oleh sebab itu, analisis yang
+terbentuk selanjutnya disadari telah dipengaruhi oleh penulis dari
+berbagai faktor. Di sisi lain, juga harus disadari pula bahwa di balik
+wacana itu terdapat makna dan perspektif yang diinginkan serta
+kepentingan yang sedang diperjuangkan (Darma, 2013: 49).
+
+Analisis wacana kritis merupakan pisau analisis yang relatif baru dengan
+paradigma pengetahuan yang timbul dari tradisi teori sosial dan analisis
+linguistik kritis. Analisis wacana kritis sudah semakin melebar dan
+meluas, dari semula kajian unsur bahasa (kalimat atau klausa) kepada
+dimensi sosial yang lebih luas (Santoso, 2006: 57). Sejalan dengan
+pendapat Fairclough (1995) bahwa analisis wacana kritis mengkaji tentang
+upaya kekuatan sosial, pelecehan, dominasi, dan ketimpangan yang
+direproduksi dan dipertahankan melalui teks yang pembahasannya
+dihubungkan dengan konteks sosial dan politik. Wacana harus dilihat
+secara simultan sebagai (1) teks-teks bahasa, baik lisan atau tulisan,
+(2) praksis kewacanaan, yaitu produksi teks dan interpretasi teks, (3)
+praksis sosiokultural, yakni perubahan-perubahan masyarakat, institusi,
+kebudayaan yang menentukan bentuk dan makna sebuah wacana, yang kemudian
+disebut sebagai dimensi wacana (Santoso, 2006; Fairclough, 1995). Dengan
+demikian hakikatnya menganalisis wacana secara kritis yakni menganalisis
+tiga dimensi wacana tersebut. Ketiganya merupakan integrasi yang tidak
+dapat dipisahkan satu dengan lainnya (Santoso, 2006).
+
+Analisis wacana kritis mengungkap fakta penting melalui bahasa, yaitu
+bagaimana penggunaan bahasa sebagai alat kekuasaan dalam masyarakat.
+Jika salah satu akar persoalan dapat diungkap melalui bahasa, maka
+pengkajian aspek linguistik terhadap bahasa adalah penting. Dalam
+analisis wacana kritis struktur linguistik digunakan untuk (1)
+mengestimasikan, mentransformasikan, dan mengaburkan analisis realitas,
+(2) mengatur ide dan perilaku orang lain, serta (3) menggolong-golongkan
+masyarakat. Untuk merealisasikan tujuan-tujuan tersebut, teks analisis
+wacana kritis menggunakan unsur kosakata, gramatika, dan struktur
+tekstual sebagai bahan analisisnya (Djik, 1987: 258).
+
+Penggunaan istilah “teks” dan “wacana” dalam analisis wacana digunakan
+secara bergantian. Istilah teks dan wacana cenderung digunakan tanpa ada
+pembedaan yang jelas (Santoso, 2006; Kress, 1985). Diskusi-diskusi
+dengan dasar dan tujuan yang lebih ke arah sosiologis cenderung
+menggunakan istilah “wacana”. Kajian wacana lebih menekankan pada
+persoalan “Isi”, “fungsi”, “makna sosial” dari penggunaan bahasa.
+Sementara itu, diskusi-diskusi dengan dasar atau tujuan yang lebih
+lingual cenderung menggunakan istilah teks. Analisis wacana kritis
+digunakan untuk menganalisis wacana-wacana kritis, di antaranya politik,
+ras, gender, kelas sosial, dan hegemoni (Fairclough, 1995). Selanjutnya,
+Fairclough meringkas prinsip-prinsip ajaran analisis wacana kritis
+sebagai berikut: (1) membahas masalah-masalah sosial; (2) mengungkap
+relasi-relasi kekuasaan adalah diskursif; (3) mengungkap budaya dan
+masyarakat; (4) bersifat ideologi; (5) bersifat historis; (6)
+mengemukakan hubungan antara teks dan masyarakat; dan (7) bersifat
+interpretatif dan eksplanatori.
+
+**Analisis Wacana Kritis Dalam Karya Sastra (Praktik Ideologi)**
+------
+
+Dalam karya sastra ditemukan ungkapan citra masyarakat dan zaman yang
+mempresentasikan usaha manusia menjawab tantangan hidup suatu konteks
+zaman dan masyarakat tertentu. Hal tersebut sejalan dengan pendapat
+Eagleton (1983: 5-10), karya sastra secara teoretis tidak terlepas dari
+aspek sosiologis lahirnya karya sastra sebagai refleksi masyarakat yang
+dipengaruhi oleh kondisi sejarah. Dalam pandangan analisis wacana
+kritis, wacana dipandang sebagai praktik ideologi, atau pencerminan dari
+ideologi tertentu (Santoso, 2006). Ideologi yang berada di balik
+penghasil teksnya akan selalu mewarnai bentuk wacana tertentu. Menurut
+Santoso (2006: 62) dua catatan penting berkenaan dengan ideologi dalam
+wacana. Pertama, ideologi secara inheren bersifat sosial, tidak personal
+atau individu. Ideologi selalu membutuhkan anggota kelompok, komunitas,
+atau masyarakat yang mematuhi dan memperjuangkan ideologi itu. Kedua,
+ideologi digunakan secara internal di antara anggota kelompok atau
+komunitas. Ideologi selalu menyediakan jawaban tentang identitas
+kelompok.
+
+Penggunaan analisis wacana kritis untuk karya sastra merupakan implikasi
+praksis dari konseptual linguistik. Pada tahap analisis, implikasi
+praksis dari konseptual linguistik tersebut akan bersentuhan dengan
+konseptual sastra karena kesamaan objek kajian, yakni pemakaian bahasa
+secara nyata. Dalam kaitan itulah analisis wacana kritis secara umum
+dapat memberikan sebuah pendekatan yang membuka wawasan baru bagi studi
+bahasa dan ideologi serta perubahan sosial yang menyertainya (Sciffrin,
+1994: 31; Fasold, 1990: 65). Konseptual inilah yang kemudian digunakan
+secara luas dan menjadi karakter umum bagi kebanyakan kerangka kerja
+yang disebut analisis wacana, khususnya analisis wacana kritis yang
+dalam beberapa hal memberikan hasil yang menggembirakan. Kelebihan
+analisis wacana kritis dalam meninjau ideologi yang berhubungan dengan
+berbagai praktik sosial dan menjadi ciri khas analisisnya terletak pada
+pemosisian ideologi dan analisisnya (Fairclough, 1995: 14).
+
+Sehubungan dengan hal tersebut, pada tahap selanjutnya analisis wacana
+kritis ditempatkan sebagai salah satu bagian dari analisis wacana yang
+terlibat dalam peristiwa pengonstruksian makna-makna tersebut. Analisis
+wacana kritis menyediakan teori dan metode yang bisa digunakan untuk
+melakukam kajian empiris tentang hubungan-hubungan antara wacana dan
+perkembangan sosial dan kultural dalam ranah sosial yang berbeda. Dalam
+analisis wacana kritis, wacana tidak dipahami sebagai studi semata.
+Menurut Fairclough (1995), analisis wacana kritis mengungkap wacana
+sebagai bentuk dari praktik sosial sehingga perlu diperhatikan kriteria
+yang holistik dan kontekstual. Selain aspek kebahasaan dalam struktur
+teks, ada aspek lain yang perlu diperhatikan untuk menemukan
+kebermaknaan sebuah wacana, yaitu hasil interpretasi atas pemeroduksian
+dan pengonsumsian teks serta aspek sosialpolitik yang mempengaruhi
+pembuatan teks (praktik sosial-politiknya). Artinya, aspek sejarah
+pembentukan wacana itu perlu dipertimbangkan. Di dalam aspek itu dapat
+dipahami berbagai dimensi bahasa dan pemikiran si pembuat wacana. Kedua
+dimensi itu dipengaruhi oleh dimensi psikologis pembuat teks yang
+berinteraksi dengan situasi dan
+
+kondisi sosial-politiknya. Salah satu metode untuk meninjau kebermaknaan
+sebuah teks dalam konteks analisis wacana kritis itu disebut metode
+sejarah perjalanan (Titscher, dkk., 2000: 154-155).
+
+Wacana dalam analisis karya sastra diterapkan dalam tiga konsep yang
+berbeda. *Pertama*, wacana dipahami sebagai jenis bahasa yang
+dipergunakan dalam suatu bidang tertentu, seperti politik. *Kedua*,
+penggunaan wacana sebagai praktik sosial, maksudnya, analisis wacana
+bertujuan untuk mengungkap peran praktik kewacanaan dalam upaya
+melestarikan dunia sosial, termasuk hubungan-hubungan sosial yang
+melibatkan kekuasaan yang tak sepadan. Kekuasaan dalam hal ini tidak
+datang dari luar, tetapi menentukan susunan, aturan, dan hubungannya
+dengan faktor lain seperti sosial ekonomi, keluarga, media komunikasi,
+pendidikan dan ilmu pengetahuan. *Ketiga,* dalam penggunaan yang paling
+konkret, wacana digunakan sebagai suatu cara bertutur yang memberikan
+makna yang berasal dari pengalaman yang dipetik dari perspektif
+tertentu. Oleh karena itu, dalam tatanan wacana terdapat praktik-praktik
+kewacanaan tempat dihasilkan dan dikonsumsi (Fairclough, 1995).
+
+Berdasarkan tiga konsep tersebut, dapat dirumuskan kerangka analisis
+dengan pemahaman bahwa setiap peristiwa penggunaan bahasa merupakan
+peristiwa komunikatif yang terdiri atas tiga dimensi, yakni: *pertama*,
+**teks** dibangun dari sejumlah piranti linguistik yang di dalamnya
+tersembunyi ideologi dan kekuasaan (Santoso, 2006: 66-68). Dalam
+penerapannya, analisis wacana kritis banyak memanfaatkan piranti
+linguistik yang disarankan dalam linguistik fungsional-sistemik Halliday
+(1985; 1994) dan linguistik kritis Fowler (1986) untuk memerikan (*to
+describe*) kepemilikan struktur linguistik dalam teks bahasa. Dalam
+tahap pemerian ini berupa analisis terhadap (a) **kosakata**, (b)
+**gramatika**, dan (c) **struktur teks**. Kajian terhadap **kosakata**,
+beberapa fitur lingual yang dikaji terkait dengan kosakata sebagai
+berikut: (1) pola klasifikasi yang tergambar dalam teks, (2) kata-kata
+ideologis yang diperjuangkan, (3) proses-proses leksikal, (4) relasi
+makna yang ideologis, (5) ekspresi eufemistik, (6) kata-kata “formal”
+dan “informal” yang mencolok, (7) evaluasi “positif” dan “negatif”, (8)
+metafora. Kajian terhadap **gramatika**, beberapa fitur lingual yang
+dikaji dalam gramatika sebagai berikut: (1) ketransitifan, (2)
+nominalisasi, (3) kalimat aktif-pasif, (4) kalimat positif-negatif, (5)
+modus-modus kalimat, (6) modalitas relasional, (7) pronomina persona,
+(8) modalitas ekspresif. Kajian **struktur teks**, beberapa fitur
+lingual yang dikaji sebagai berikut: (1) konvensi interaksi, (2)
+penataan dan pengurutan teks.
+
+*Kedua*, **praksis kewacanaan** berkaitan dengan produksi dan
+interpretasi proses-proses diskursif. Analisis tahap kedua analisis
+wacana kritis ini berupa tahap **menginterpretasikan** (*to interpret*)
+relasi antara produksi dan interpretasi proses-proses diskursif itu. Dua
+hal yang menjadi lahan adalah (1) interpretasi teks, dan (2)
+interpretasi konteks. Dalam interpretasi teks ada empat level ranah
+interpretasi, yakni (a) bentuk lahir tuturan, (b) makna ujaran, (c)
+koherensi lokal, (d) struktur teks dan poin. Dalam interpretasi konteks
+ada dua level interpretasi, yakni (a) konteks situasional, dan (b)
+konteks antarteks.
+
+*Ketiga*, **praksis sosiokultural**, yakni hubungan antara teks dan
+struktur sosial dimediasikan oleh konteks sosial wacana. Wacana akan
+menjadi nyata, beroperasi secara sosial, sebagai bagian dari
+proses-proses perjuangan institusional dan masyarakat. Analisis tahap
+ketiga analisis wacana kritis ini berupa tahap **menjelaskan** (*to
+explain*) relasi fitur-fitur tekstual yang heterogen beserta
+kompleksitas proses wacana dengan proses perubahan sosiokultural, baik
+perubahan masyarakat, institusional, dan kultural. Menurut Fairclough
+(2003) tujuan tahap eksplanasi ialah “memotret” wacana sebagai bagian
+proses sosial, sebagai praksis sosial, yang menunjukkan bagaimana wacana
+itu ditemukan oleh struktur sosial dan reproduksi apa saja yang
+mempengaruhi wacana secara kumulatif memakai, menopang, atau mengubah
+struktur-struktur itu.
+
+**Pembahasan**
+------
+
+**Dimensi Sosial dalam Novel Negeri Para Bedebah**
+~~~~~~
+
+Dalam tulisan ini disajikan analisis wacana kritis terhadap Karya
+Sastra, yaitu teks novel yang berjudul Negeri Para Bedebah karya Tere
+Liye (Juli 2012). Novel ini dianalisis melalui teknik rekonstruksi,
+yaitu dengan mengupas pemosisian ideologi dan analisisnya (Fairclough,
+1995). Menurut Fairclough (dalam Santoso, 2006: 65) prosedur analisis
+wacana kritis digambarkan secara simultan menjadi tiga dimensi sosial,
+yaitu: *pertama* dimensi teks (*to describe*), *kedua* praksis
+kewacanaan (*to interpret*), *ketiga* praksis sosiokuktural (*to
+explain*).
+
+Novel Negeri Para Bedebah karya Tere Liye mengisahkan tentang seorang
+tokoh utama bernama Thomas. Thomas seorang konsultan keuangan yang
+terkemuka. Ia bekerja secara profesional sehingga namanya terkenal di
+seluruh Dunia. Rutinitasnya selain menjadi konsultan juga menjadi
+pembicara di acara berkelas. Rekam jejak pendidikan Thomas dan
+perusahaan yang dirintis secara profesional akhirnya banyak dikenal oleh
+kalangan pebisnis bahkan politikus. Thomas memiliki kecakapan ilmu,
+keberanian, lentur serta dapat mempengaruhi orang lain. Selain itu,
+tidak semua orang menyangka bahwa Thomas adalah petarung yang berisikan
+pebisnis, anggota pasukan khusus, serta para politikus dan pejabat
+berpengaruh. Masyarakat awam tidak akan pernah tahu bahwa di Jakarta dia
+memiliki klub petarung seperti yang ada di film *action*. Usia Thomas
+masih dapat dikatakan muda, berkisar 33 tahun. Walaupun demikian
+penghasilan yang banyak dapat dikatakan belum beruntung untuk urusan
+asmara. Thomas belum memilki kekasih bahkan istri.
+
+Ternyata tidak semua orang yang sukses memiliki masa lalu yang indah.
+Itu tidak terjadi pada Thomas. Thomas memilki masa lalu yang ingin ia
+lupakan. Masa lalu yang kelam. Thomas kelihangan kedua orang tua nya
+sekaligus dalam kejadian kebakaran di rumahnya. Kebakaran itu disengaja
+oleh orang orang yang merasa dirugikan oleh usaha yang didirikan oleh Om
+nya Thomas, yaitu Om Liem. Ketika itu Thomas baru berusia 10 tahun. Saat
+ini Thomas menjadi orang terpandang. Tidak ada yang tahu bahwa dia
+memilki kerabat yang memilki usaha Bank Semesta. Bank Semesta yang kini
+menghadapi kondisi bangkrut. Pemilik dari bank tersebut tidak lain
+adalah om Liem, kerabat Thomas. Om Liem mengutus orang kepercayaannya
+mencari Thomas, yaitu Ram. Saat itu terjadi pada hari Jumat malam hari.
+Rumah dari om Leim dalam kondisi dikepung oleh para polisi. Om Liem
+tinggal dengan istri dan pembantunya. Saat Thomas di telpon kondisi
+tantenya saat itu sedang pingsan mendengar bahwa Om Liem akan masuk ke
+dalam penjara. Maksud Om Liem menacari Thomas untuk menjaga tante nya
+selama om Liem berada di penjara. Karena ia merupakan satu – satunya
+putra laki – laki yang ada di keluarga besar. Saat itu Thomas sudah
+tidak ingin berurusan dengan Om nya itu, karena ia sangat membenci Om
+nya tersebut. Namun itu alasan kurang tepat untuk menolong Om nya
+tersebut.  Thomas berencana untuk membawa Om nya kabur dari rumah yang
+telah dikepung oleh pihak kepolisian.  Jika om Liem tertangkap maka
+selesai sudah nasib Bank Semesta dalam hari itu juga.  Karena pikir
+Thomas tanpa tanda tangan sang pemilik Bank maka Bank tersebut tidak
+akan dibekukan. Thomas berpikir untuk membawa Om Liem ketempat
+persembunyian.
+
+Setelah membiarkan Om Liem ditempat aman, maka giliran Thomas untuk
+melakukan misi penyelamatan Bank semesta. Thomas hanya memilki waktu
+hingga hari Senin pukul 08.00 ketika Bank buka. Rencana awal dengan
+mengundang beberapa media televisi hingga editor majalah untuk membantu
+keberhasilannya menyelamatkan bank tersebut. Dalam upaya menyelamatkan
+bank tersebut, Thomas hingga menjadi salah satu buronan. Tidak hanya
+Thomas yang menjadi buronan, wartawan wanita yang telah mewawancarai
+dirinya di pesawat dari London pun juga. Wartawan tersebut bernama
+Julia.
+
+Gambaran kisah Novel Negeri Para Bedebah karya Tere Liye di atas syarat
+dengan dimensi sosial, yakni *pertama* dimensi teks, *kedua* dimensi
+praksis kewacanaan, *ketiga* dimensi praksis sosiokuktural.
+
+**Dimensi Teks**
+~~~~~~
+
+Dalam novel Negeri Para Bedebah Karya Tere Liye terdapat kata-kata
+ideologis yang diperjuangkan. Melalui kata-kata tersebut pengarang ingin
+menyampaikan ideologinya. Pengarang mengajak pembaca untuk dapat
+memaknai kata-kata ideologis yang sering digunakan. Kata-kata tersebut
+seperti data berikut.
+
+   Aku melompat, tanganku bergerak cepat hendak memukul Randy—sekalian
+   menguji apakah sarung tinjuku sudah sempurna mencengkeram. “Dasar
+   **bedebah**! Ternyata kau yang sengaja menghambatku di loket
+   imigrasi.”(NPB, 2012:28)
+
+Kata “\ *bedebah”* menurut kamus besar bahasa Indonesia memiliki arti
+celaka (sebagai makian). Kata tersebut memiliki relasi makna ideologis
+dengan pejabat pemerintah yang dengan sengaja menggunakan kekuasaan dan
+wewenangnya. Kekuasaan dan wewenang tersebut tidak berdasarkan tugas
+yang diembankan melainkan pada ambisi pribadi. Kadang lebih pada
+kepentingan golongan ketika dibutuhkan. Justru yang lebih parah, ketika
+kekuasaan dan wewenang digunakan untuk mendapatkan keuntungan pribadi
+maupun golongan. Hal tersebut dapat dilihat pada data berikut.
+
+   “Baiklah, jika ini yang ingin kauketahui. Aku tidak akan
+   menutupinya.” Akau meremas rambut, setengah sebal menatapnya. “Om
+   Liem melanggar banyak regulasi, itu benar. Dia ambisius, memanfaatkan
+   banyak koneksi untuk memuluskan bisnisnya, dan begitu banyak
+   kejahatan lainnya, itu benar. Dia jelas **bedebah**. Tapi aku baru
+   semalam menyadari ada yang keliru dengan penutupan Bank Semesta. Ada
+   **bedebah** yang lebih jahat lagi d luar sana. Om Liem sudah berjanji
+   akan mengganti seluruh uang nasabah, tidak akan mengunyah satu perak
+   pun uang mereka. (NPB, 2012:109)
+
+Data tersebut menunjukkan bahwa bedebah yang dimaksud adalah pejabat
+pemerintah yang ingin menutup Bank Semesta yang dikelola oleh Om Liem.
+Thomas ingin menyelamatkan Bank tersebut demi harga diri karena Om Liem
+telah berjanji akan mengganti seluruh uang nasabah. Thomas menyadari
+jika Om Liem memang salah dalam mengelola Bank Semesta dengan
+memanfaatkan kedekatan dengan para pejabat dan petinggi negeri ini
+tetapi Thomas juga menyadari bahwa dalam hal ini Om Liem yang
+dikorbankan hanya untuk mendapatkan keuntungan pribadi dan golongan oleh
+para pejabat tersebut. Hal tersebut terdapat pada data berikut.
+
+   “Tetapi tadi malam, saat orang kepercayaan Om Liem menjemputku di
+   hotel, pukul dua dini hari, di dalam mobil Ram menyebutkan nama
+   petinggi kepolisian dan pejabat kejaksaan yang menyidik kasus Bank
+   Semesta. Aku mengenali nama itu. Nama kedua **bedebah** itu. Kau
+   pernah bertanya padaku, apakah aku anak muda yang pintar, kaya, punya
+   kekuasaan dengan kepribadian ganda? Penuh paradoks? Kau keliru,
+   Julia. Aku adalah anak muda yang dibakar dendam masa lalu. Jiwaku
+   utuh. Seperti berlian yang tidak bisa dipecahkan. Aku selalu menunggu
+   kesempatan ini.
+
+   “Apakah hidup ini adil? Papa-Mama mati terbakar. Dua **bedebah** itu
+   menjadi orang penting di negeri ini. Satu menjadi bintang tiga
+   kepolisian, hanya soal waktu dia jadi kepala polisi. Satunya lagi
+   jaksa paling penting dan berpengaruh di korpsnya, hanya soal waktu
+   menjadi jaksa agung. Aku kembali, Julia. Sejak tadi malam aku
+   memutuskan kembali ke keluarga ini. Aku akan membalaskan setiap butir
+   debu jasad Papa-Mama........(NPB, 2012: 118)
+
+Kata *bedebah* yang digunakan oleh pengarang masih konsisten untuk
+mewakili pejabat dan petinggi yang korup. Korup dimaknai oleh pengarang
+sebagai penyalahgunaan wewenang dan kekuasaan untuk mendapatkan tujuan
+yakni meraup uang sebanyak-banyaknya. Disela perjuangan Thomas untuk
+membantu Om Liem ternyata dia menemukan sosok yang dahulu membunuh Papa
+dan Mamanya ketika dia masih kecil. Seolah menjadi pembakar semangat,
+maka Thomas tidak segan untuk membalaskan dendamnya disela perjuangannya
+membela Om Liem.
+
+Dari beberapa teks di atas, Pengarang memegang kendali interaksional
+dalam menentukan kata-kata ideologis. Pembaca ‘di dalam teks’ dan
+pembaca ‘di luar teks’ dikendalikan oleh Pengarang dalam interaksinya.
+Pengarang dominan dalam menentukan interaksional. Apabila Novel Negeri
+Para Bedebah ini dibacakan, tampak identitas Pengarang dalam
+mengkonstruksi Pembaca melalui bahasa yang digunakan.
+
+**Dimensi Praksis Kewacanaan**
+~~~~~~
+
+Melalui *genre* Novel ini Pengarang dapat mengembangkan wacana kritis
+dan gagasan perlawanan progresif ideologis. Pengarang melakukan
+perlawanan serta berdiri tegak terhadap tatanan sosial yang timpang.
+Pembaca dengan mudah dapat memaknai kata demi kata yang dijalin oleh
+Pengarang. Pilihan kata ideologis yang lazim dan sering didengar di
+masyarakat sehari-hari, dalam novel ini menjadikan pembaca mudah
+mencerna dan memahaminya.
+
+Pengarang sangat kritis dalam mengeksplorasi dan mengeksplanasi kondisi
+Indonesia pada era reformasi. Sebagai warga bangsa yang mewakili subjek
+kolektif masyarakatnya melalui *genre* wacana novel ini, pembaca
+disuguhkan ironi-ironi yang mempertanyakan menuju kesadaran diri pembaca
+terhadap kondisi politik negara Indonesia. Perhatikan data berikut.
+
+   “Jika itu terjadi, jika Bank Semesta akhirnya diselamatkan komite
+   stabilitas sistem keuangan nasional, itu jelas akan menjadi skandal
+   perbankan terbesar di negeri ini. Semua pihak, terutama media massa,
+   LSM, lembaga, individu yang masih memiliki integritas akan menuntut
+   dilakukan penyelidikan, diusut tuntas. Nah, sebelum itu terjadi, kita
+   harus menyumpal sebanyak mungkin pihak terkait. Pejabat pemerintah,
+   partai politik, petinggi institusi, kroni, teman, kolega, bahkan bila
+   perlu pengurus organisasi olahraga, apapun itu. Semakin banyak yang
+   menerima kucuran uang haram itu, maka jangankan melakukan
+   penyelidikan secara sistematis dan besar-besaran, menggerakkan satu
+   pion petugas penyidik saja mereka tidak kuasa. Seluruh penjara di
+   negeri ini penuh dengan komisi pemberantasan korupsi berani
+   mengutak-atik kasus penyelamatan Bank Semesta. (NPB, 2012: 255-256)
+
+Kalimat-kalimat novel yang disuguhkan tidak berbeda dengan kalimat
+informatif yang memiliki fungsi memberi tahu untuk menguatkan pemahaman
+pembaca. Dalam perspektif ini, pembaca diajak menuju kesadaran betapa
+dunia politik di negeri ini tempat mereka tinggal sangatlah memalukan,
+memuakkan, menjijikkan, serta tidak ada kebanggaan bagi masyarakat
+Indonesia. Ditampilkanya susunan kalimat-kalimat langsung dalam novel
+ini sebagaimana kalimat gramatikal sangat mudah dipahami pembaca
+memberikan peluang pembaca untuk mengembangkan interpretasinya dengan
+muara membangun kebencian terhadap para
+
+Pejabat pemerintah, partai politik, petinggi institusi, kroni, teman,
+kolega, bahkan pengurus organisasi olahraga yang masih bercokol, yang
+notabene sebagai calon *Orang-orang penting* di negeri ini. Dikotomi
+‘ketidakadilan Institusi” dibangun sehingga memunculkan kebencian
+pembaca sebagai representasi sosial rakyat kolektif yang hidup menderita
+terhadap pengurus orpol yang hidup dalam kesewenang-wenangan.
+
+**Dimensi Praksis Sosikultural**
+~~~~~~
+
+Dimensi ini memfokuskan pertarungan sosial yang terjadi dan ikut
+menentukan sebuah wacana. Hal ini diasumsikan bahwa teks dan struktur
+sosial dimediasikan oleh konteks sosial wacana. Novel Negeri Para
+Bedebah karya Tere Liye lahir dari sebuah kekuatan masyarakat Cina yang
+merasa mempunyai solidaritas sosial. Mereka sangat terbuka jika ingin
+berbuat baik antara sesama, sampai mereka berpikir dan merasakan
+carut-marutnya pemerintahan di negeri ini akibat ulah para Pejabat
+pemerintah, partai politik, petinggi institusi, sebagaimana kutipan
+berikut.
+
+   ...Aku melintasi meja imigrasi dengan mudah. Namaku dicekal, tapi aku
+   kenal anak buah Randy yang menjaga loket-salah satu anggota klub
+   petarung lainnya yang menjadi **petinggi** **imigrasi** bandara.
+   Bahkan dua hari lalu aku juga berniat melarikan Om Liem ke luar
+   negeri, tapi berubah pikiran, kembali turun dari pesawat.....
+
+   (NPB, 2012: 403)
+
+   ......Pidato **petinggi partai** di podium semakin hebat. Dia sedang
+   semangat membahas visi kebangsaan, cita-cita partai segaris lurus
+   dengan cita-cita pendiri negara. Peserta konvensi tampaknya semakin
+   meneriakkan kata “Merdeka” di setiap akhir kalimat petinggi partai...
+   (NPB, 2012: 327-328)
+
+   ...Opini tentang penyelamatan Bank Semesta sudah ramai disebut-sebut
+   oleh pengamat dan Wartawan di berbagai media massa. Pertemuan dengan
+   **petinggi bank sentral** dan lembaga penjamin simpanan sudah
+   kulakukan. Audiensi dengan **menteri** sekaligus **ketua komite**
+   stabilitas sistem keuangan sudah terjadi, bahkan pion terakhir, putra
+   mahkota, sudah kuletakkan di atas papan permainan... (NPB, 2012:
+   388-389)
+
+Kutipan data tersebut memberi informasi kepada pembaca oposisi biner
+antara petinggi dengan rakyat. Para petinggi dengan wewenang dan
+kekuasaannya seenaknya menentukan keputusan penting yang tidak berasal
+dari fakta dan bukti-bukti, sementara mereka para nasabah bank tidak
+diberikan kompensasi sebagaimana mestinya sesuai dengan peraturan yang
+ada. Nasabah yang notabene rakyat yang baik dianggap lemah, tetapi
+petinggi-petinggi pemerintah, partai politik, petinggi institusi menipu
+rakyat melalui penjaminan simpanan. Para petinggi boleh marah, tetapi Om
+Liem dan rakyat hanya bisa pasrah. Kemarahan Pengarang dilampiaskan ke
+dalam perlawanan literer dengan strategi penggunaan diksi yang ironi.
+
+Dalam novel ini juga tampak adanya pertarungan ideologi pengarang dengan
+ideologi para petinggi negeri. Demokrasi yang dianut petinggi yaitu
+demokrasi transaksional, yang didasarkan jual-beli (alat tukar
+kepentingan). Keadilan sosial yang dianut penguasa yaitu keadilan sosial
+liberal. Di pihak lain, pengarang membela Om Liem dan rakyat yang berada
+pada posisi tertindas, menderita, dan tidak berdaya untuk melakukan
+perlawanan. Pertarungan ideologi tersebut, yang membangun wacana literer
+novel ini. Pertarungan sosial antar kelas (‘rakyat’ dengan ‘para
+petinggi’), komunitas yang ‘ditindas’ dengan komunitas ‘penindas’ yang
+menjadi persoalan utama dalam novel ini. Kontradiksi antara yang
+dinikmati penguasa dan yang dialami rakyat. Hal itu merupakan ekspresi
+kemarahan pengarang dalam pemroduksian novel ini karena ketimpangan
+sosial dan ketidaktegasan pemimpin negeri ini. Pemimpin negeri ini tidak
+sejalan dengan sikap dan tindakannya.
+
+**SIMPULAN**
+------
+
+Berdasarkan analisis teks sastra terhadap Novel Negeri Para Bedebah
+karya Tere Liye dapat disimpulkan bahwa untuk mengungkap ideologi yang
+ada di dalamnya tidak bisa menempatkan bahasa secara tertutup, tetapi
+harus melihat konteks, terutama bagaimana ideologi dari sesorang atau
+kelompok-kelompok yang ada tersebut berperan dan membentuk wacana dalam
+teks tersebut. Selain itu, teks sastra sangat bergantung pada situasi
+saat penciptaan dan individualisasi pengarangnya sehingga makna yang
+terkandung di dalamnya tidak bisa ditentukan dari susunan kebahasaannya
+saja, tanpa mempertimbangkan susunan retorika yang terkait dengan
+situasi konteks komunikasi yang mendukungnya. Situasi komunikasi begitu
+penting dalam teks sastra yang biasanya tergambar dari latar dan sudut
+pandang pengarangnya, situasi percakapan, atau rasa (sikap pengarang
+terhadap pokok permasalahan), dan nada (sikap pengarang terhadap
+pembacanya). Signifikasi suatu teks sastra yang terlepas dari situasi
+komunikasinya adalah sesuatu yang kosong. Hanya situasi yang
+memungkinkan terbentuknya kondisi suatu teks dan dapat memberi makna
+pada teks itu.
+
+**Daftar Rujukan:**
+------
+
+Darma, Yoce Aliah. (2013). *Analisis Wacana Kritis.* Bandung: Yrama
+Widya.
+
+Dijk, Teun A.van. (1987). *Discourse Analysis in Society.* London:
+Academic Press Inc.
+
+Eagleton, Tery. (1983). *Literary Theory: An Introduction.* London:
+Basil Blackwell.
+
+Fairclough, Norman. (2003). *Language and Power: Relasi Bahasa,
+Kekuasaan, dan Ideologi.* (diindonesiakan) Komunitas Ambarawa. Gresik
+dan Malang: Boyan Publishing.
+
+Fairclough, Norman. (1995). *Critical Discourse Analysis: The Critical
+Study of Language.* London: Longman.
+
+Fowler, R. (1986). *Linguistic Criticism*. Oxford: Oxford University
+Press.
+
+Firmansyah, M. B. (2018, January 3). Social and Political Values in Iwan
+Fals’s Song Collections_bayu. Retrieved from osf.io/ayj8e
+
+Firmansyah, M. B. (2017). REPRESENTASI BAHASA HUMOR DALAM ACARA STAND UP
+COMEDY DI METRO TV. *Jurnal Keilmuan Bahasa, Sastra, dan Pengajarannya*,
+*2*\ (2), 195-202.
+
+Firmansyah, M. B. (2018). MODEL PEMBELAJARAN DISKUSI BERBASIS PERILAKU
+BERLITERASI UNTUK KETERAMPILAN BERBICARA. *Jurnal Ilmiah Edukasi &
+Sosial*, *8*\ (2), 119-125.
+
+Firmansyah, B. (2018). KOMPETENSI LITERASI MAHASISWA DALAM PEMBELAJARAN
+MATA KULIAH SEMINAR DI PRODI BAHASA DAN SASTRA INDONESIA. *Jurnal Ilmiah
+Edukasi & Sosial*, *8*\ (1), 12-17.
+
+Firmansyah, M. B. (2018, January 3). MODEL PEMBELAJARAN DISKUSI BERBASIS
+PERILAKU BERLITERASI UNTUK KETERAMPILAN BERBICARA_BAYU_sept_2017.
+Retrieved from osf.io/eacnf
+
+Firmansyah, M. B. (2018, January 3).
+KompetensiLiterasiMahasiswaDalamPembelajaranMatakuliahSeminarDiProdiPendidikanBahasaDanSastraIndonesia_Bayu.
+Retrieved from osf.io/n9xmp
+
+Firmansyah, M. B. (2018). KONSEPTUALISASI PEMBELAJARAN SASTRA DIGITAL.
+*Jurnal Ilmiah Edukasi & Sosial*, *9*\ (1), 21-27.
+
+Firmansyah, M. B. (2018). MULTIMODAL CONCEPTION IN LEARNING. *ISLLAC:
+Journal of Intensive Studies on Language, Literature, Art, and Culture*,
+*2*\ (1), 40-44.
+
+Halliday, M.A.K. 1985/1994. An Intoduction to Fungtional Grammar.
+London: Edward Arnold Publishers Ltd.
+
+Kress, G. (1985). Ideological Structures in Discourse. Dalam van Dijk,
+T.A. (*Ed*), Handbook of Discourse Analysis Volume 4: Discourse Analysis
+in Society. London: Academic Press.
+
+Liye, Tere. (2012). *Negeri Para Bedebah*. Jakarta: PT. Gramedia Pustaka
+Utama.
+
+Santoso, Anang. (2006). *Bahasa, Masyarakat dan Kuasa: Topik-topik
+Kritis dalam Kajian Ilmu Bahasa*. Malang: Universitas Negeri Malang.
+
+Schiffrin, Deborah. (1994). *Approaches to Discourse.* Cambridge:
+Blackwell.
+
+Titscher, Stefan, M. Meyer, R. Wodak, & E. Vetter. (2000). *Methods of
+Text* *and Discourse Analysis.* London: Sage Publication.
