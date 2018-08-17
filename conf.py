@@ -46,7 +46,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'homepage'
+project = u'maqala'
 #html_show_copyright = False
 copyright = u'Creative Commons CC0 - http://creativecommons.org/publicdomain/zero/1.0/. To the extent possible under law, Matthias Geier has waived all copyright and related or neighboring rights to this work'
 
@@ -204,7 +204,7 @@ latex_elements = {
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'homepage.tex', project, u'Matthias Geier', 'manual'),
+  ('index', 'maqala.tex', project, u'Matthias Geier', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
