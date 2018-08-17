@@ -1,8 +1,5 @@
-Maqala
-======
-
 Makalah
-------
+======
 
 Mochammad Bayu Firmansyah, `Analisis Wacana Kritis - Dimensi Sosial dalam Novel Negeri Para Bedebah Karya Tere Liye`_, [`inarxiv`_]
 
