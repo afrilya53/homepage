@@ -48,7 +48,7 @@ master_doc = 'index'
 # General information about the project.
 project = u'maqala'
 #html_show_copyright = False
-copyright = u'Creative Commons CC0 - http://creativecommons.org/publicdomain/zero/1.0/. Tim Sains Terbuka. 18.8.18.'
+copyright = u'Creative Commons CC0 - http://creativecommons.org/publicdomain/zero/1.0/. Tim Sains Terbuka. 18.8.18'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
