@@ -1,4 +1,3 @@
-Files for my "homepage" on rtfd.io
-==================================
+Sistem Penerbitan Jurnal Sains Terbuka Indonesia
 
-Have a look there: http://mg.rtfd.io/
+https://maqala.readthedocs.io/en/latest/
